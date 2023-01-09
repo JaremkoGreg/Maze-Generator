@@ -126,8 +126,8 @@ def printmaze(sizex,sizey,Walls):
 
 #-----------------Main--------------------------
 #size of maze
-sizex=3
-sizey=3
+sizex=5
+sizey=5
 
 #calling functions
 walls=mazegenerate(sizex,sizey)
