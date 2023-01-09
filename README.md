@@ -1,6 +1,6 @@
 # Maze generator
 
-This maze generator will be using the recursive backtracking algorithm.
+This program will generate a maze by using the recursive backtracking algorithm.
 
 Here is a link where I found out about the algorithm: 
 [RecursiveBacktrackingAlgorithm](https://weblog.jamisbuck.org/2010/12/27/maze-generation-recursive-backtracking)
